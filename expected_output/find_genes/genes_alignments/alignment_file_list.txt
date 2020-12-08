@@ -1,0 +1,3 @@
+../output/find_genes/genes_alignments/phaseoli.fas
+../output/find_genes/genes_alignments/trifolii.fas
+../output/find_genes/genes_alignments/viciae.fas

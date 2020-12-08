@@ -1,0 +1,766 @@
+﻿Strain;Group;ANI
+R._leguminosarum_USDA_2370.fna;Rlc;100
+R._leguminosarum_USDA_2370_GCF_002008365.1.fna;Rlc;99.9981
+R._leguminosarum_FRP5D3.fna;Rlc;99.8734
+R._leguminosarum_FRP4D11.fna;Rlc;99.8733
+R._leguminosarum_4292.fna;Rlc;99.8717
+R._leguminosarum_CZP3G7.fna;Rlc;99.8706
+R._leguminosarum_BIHB_1217.fna;Rlc;99.8529
+R._leguminosarum_CZF1F8.fna;Rlc;99.8504
+R._leguminosarum_FRP5H7.fna;Rlc;99.8418
+R._leguminosarum_P221.fna;Rlc;99.8282
+R._leguminosarum_SEP2G2.fna;Rlc;99.8091
+R._leguminosarum_UPM988.fna;Rlc;99.7929
+R._leguminosarum_FRP3E5.fna;Rlc;99.7655
+R._leguminosarum_CZP1G4.fna;Rlc;99.7636
+R._leguminosarum_FRP5C5.fna;Rlc;99.7601
+R._leguminosarum_L125.fna;Rlc;99.7579
+R._leguminosarum_FRP3E11.fna;Rlc;99.7391
+R._leguminosarum_L324.fna;Rlc;99.7378
+R._leguminosarum_L113.fna;Rlc;99.7175
+R._leguminosarum_CZP3C9.fna;Rlc;99.668
+R._leguminosarum_CZP1G1.fna;Rlc;99.6551
+R._leguminosarum_128C53.fna;Rlc;99.6454
+R._leguminosarum_UPM791.fna;Rlc;99.6441
+R._leguminosarum_SEP5D11.fna;Rlc;99.6411
+R._leguminosarum_JHI944.fna;Rlc;99.6378
+R._leguminosarum_FRP4H3.fna;Rlc;99.6373
+R._leguminosarum_SEP3F1.fna;Rlc;99.615
+R._leguminosarum_CZP1H7.fna;Rlc;99.6085
+R._leguminosarum_SEP5D7.fna;Rlc;99.6002
+R._leguminosarum_RSP1E11.fna;Rlc;99.5821
+R._leguminosarum_CZP1G9.fna;Rlc;99.5633
+R._leguminosarum_SEP4B10.fna;Rlc;99.5422
+R._leguminosarum_JHI1084.fna;Rlc;99.5347
+R._leguminosarum_CC283b.fna;Rlc;99.525
+R._leguminosarum_CB1.fna;Rlc;98.9115
+R._leguminosarum_CZP3H7.fna;Rlc;98.852
+R._leguminosarum_FRP2D7.fna;Rlc;98.4762
+R._leguminosarum_SM45_gsE.fna;Rlc;98.4486
+R._leguminosarum_23B.fna;Rlc;98.4199
+R._leguminosarum_FRP3A12.fna;Rlc;98.4151
+R._leguminosarum_SM52_gsE.fna;Rlc;98.4119
+R._leguminosarum_SM168B_gsE.fna;Rlc;98.3557
+R._leguminosarum_FRP5A4.fna;Rlc;98.2771
+R._leguminosarum_UPM1137.fna;Rlc;98.2737
+R._leguminosarum_P1.14.fna;Rlc;98.2346
+R._leguminosarum_FRP3G5.fna;Rlc;98.2257
+R._leguminosarum_Rt24.2.fna;Rlc;98.2175
+R._leguminosarum_FRF3E2.fna;Rlc;98.2169
+R._leguminosarum_FRF1A1.fna;Rlc;98.2154
+R._leguminosarum_IAUb11.fna;Rlc;98.1316
+R._leguminosarum_GD25.fna;Rlc;98.1213
+R._leguminosarum_SM168A_gsE.fna;Rlc;98.1132
+R._leguminosarum_GB51.fna;Rlc;98.0809
+R._leguminosarum_P2.59.fna;Rlc;98.0179
+R._gallicum_R602sp.fna;Rlc;98.0125
+R._leguminosarum_SM135B_gsE.fna;Rlc;97.9955
+R._leguminosarum_LCS0306.fna;Rlc;97.9953
+R._leguminosarum_SM141B_gsE.fna;Rlc;97.9596
+R._leguminosarum_SM160_gsE.fna;Rlc;97.9194
+R._leguminosarum_OV152.fna;Rlc;97.8907
+R._leguminosarum_SM159_gsE.fna;Rlc;97.8867
+R._leguminosarum_4B.fna;Rlc;97.8797
+R._leguminosarum_SM149A_gsE.fna;Rlc;97.8786
+R._leguminosarum_3B.fna;Rlc;97.8752
+R._leguminosarum_SM135A_gsE.fna;Rlc;97.8553
+R._leguminosarum_SM126A_gsE.fna;Rlc;97.8268
+R._leguminosarum_ATCC_14479.fna;Rlc;97.4025
+R._leguminosarum_CC278f.fna;Rlc;95.0027
+R._leguminosarum_L145.fna;Rlc;94.9205
+R._leguminosarum_SM72_gsD.fna;Rlc;94.8531
+R._leguminosarum_SM78_gsD.fna;Rlc;94.8248
+R._leguminosarum_WSM80.fna;Rlc;94.7788
+R._leguminosarum_SM164B_gsD.fna;Rlc;94.7018
+R._leguminosarum_WSM448.fna;Rlc;94.6883
+R._leguminosarum_SM51_gsD.fna;Rlc;94.6574
+R._leguminosarum_SM79_gsD.fna;Rlc;94.5932
+R._leguminosarum_Norway.fna;Rlc;94.5429
+R._leguminosarum_UPM1134.fna;Rlc;93.5183
+R._sp._UPM1134_UPM1134.fna;Rlc;93.4983
+R._sp._UPM1132_UPM1132.fna;Rlc;93.4918
+R._sp._UPM1135_UPM1135.fna;Rlc;93.4355
+R._leguminosarum_JHI1259.fna;Rlc;93.4344
+R._leguminosarum_RCAM_1026.fna;Rlc;93.4297
+R._sp._WYCCWR10014_WYCCWR10014.fna;Rlc;93.4178
+R._leguminosarum_WSM78.fna;Rlc;93.4132
+R._leguminosarum_CZP2H1.fna;Rlc;93.4009
+R._leguminosarum_CZF5B4.fna;Rlc;93.3919
+R._leguminosarum_CZF5G8.fna;Rlc;93.3809
+R._leguminosarum_JHI1266.fna;Rlc;93.3751
+R._leguminosarum_SM146A_gsA.fna;Rlc;93.3714
+R._leguminosarum_SM151B_gsA.fna;Rlc;93.3707
+R._leguminosarum_JHI787.fna;Rlc;93.3695
+R._leguminosarum_JHI1253.fna;Rlc;93.3692
+R._leguminosarum_JHI788.fna;Rlc;93.3632
+R._leguminosarum_SM138A_gsA.fna;Rlc;93.3611
+R._leguminosarum_CC275e.fna;Rlc;93.3609
+R._leguminosarum_VF2.fna;Rlc;93.3543
+R._leguminosarum_SM123_gsA.fna;Rlc;93.3519
+R._leguminosarum_SM151A_gsA.fna;Rlc;93.3511
+R._leguminosarum_Lp8.fna;Rlc;93.349
+R._leguminosarum_JHI1442.fna;Rlc;93.348
+R._leguminosarum_P2.5.fna;Rlc;93.3479
+R._leguminosarum_SEF5C12.fna;Rlc;93.3469
+R._leguminosarum_SM152A_gsA.fna;Rlc;93.3449
+R._leguminosarum_SM152C_gsA.fna;Rlc;93.3445
+R._leguminosarum_9B.fna;Rlc;93.344
+R._leguminosarum_JHI24.fna;Rlc;93.3412
+R._leguminosarum_CZP2D2.fna;Rlc;93.3364
+R._leguminosarum_L116.fna;Rlc;93.3354
+R._leguminosarum_JHI364.fna;Rlc;93.334
+R._leguminosarum_SEF4B9.fna;Rlc;93.3311
+R._leguminosarum_SM128A_gsA.fna;Rlc;93.3298
+R._leguminosarum_SM163A_gsA.fna;Rlc;93.3296
+R._leguminosarum_SM145C_gsA.fna;Rlc;93.3295
+R._leguminosarum_SM152B_gsA.fna;Rlc;93.3294
+R._leguminosarum_SM130B_gsA.fna;Rlc;93.3292
+R._leguminosarum_SM128B_gsA.fna;Rlc;93.3289
+R._leguminosarum_SM154A_gsA.fna;Rlc;93.3267
+R._leguminosarum_SM140B_gsA.fna;Rlc;93.3247
+R._leguminosarum_VF5.fna;Rlc;93.3241
+R._leguminosarum_GB30.fna;Rlc;93.3231
+R._leguminosarum_SM136A_gsA.fna;Rlc;93.3188
+R._leguminosarum_Vc2.fna;Rlc;93.3186
+R._leguminosarum_A1.fna;Rlc;93.3163
+R._leguminosarum_SEF4H7.fna;Rlc;93.3157
+R._leguminosarum_A1_GCF_011128975.1.fna;Rlc;93.3134
+R._leguminosarum_JHI42.fna;Rlc;93.2997
+R._leguminosarum_SM154B_gsA.fna;Rlc;93.2985
+R._leguminosarum_JHI367.fna;Rlc;93.2978
+R._leguminosarum_CZP3H6.fna;Rlc;93.2964
+R._leguminosarum_SM137B_gsA.fna;Rlc;93.2949
+R._sp._UPM1133_UPM1133.fna;Rlc;93.2925
+R._leguminosarum_JHI1418.fna;Rlc;93.291
+R._leguminosarum_FRF1H7.fna;Rlc;93.2883
+R._leguminosarum_JHI985.fna;Rlc;93.2816
+R._leguminosarum_JHI370.fna;Rlc;93.2777
+R._leguminosarum_SM155C_gsA.fna;Rlc;93.273
+R._leguminosarum_JHI387.fna;Rlc;93.2707
+R._leguminosarum_JHI1592.fna;Rlc;93.2694
+R._leguminosarum_SM144A_gsA.fna;Rlc;93.269
+R._leguminosarum_SM145A_gsA.fna;Rlc;93.2682
+R._leguminosarum_SM130A_gsA.fna;Rlc;93.2669
+R._leguminosarum_SM145B_gsA.fna;Rlc;93.2637
+R._leguminosarum_SM155B_gsA.fna;Rlc;93.2625
+R._leguminosarum_SM138B_gsA.fna;Rlc;93.2603
+R._leguminosarum_GB29.fna;Rlc;93.2594
+R._leguminosarum_SM69_gsC.fna;Rlc;93.2577
+R._leguminosarum_SM146B_gsA.fna;Rlc;93.2537
+R._leguminosarum_JHI1422.fna;Rlc;93.2481
+R._leguminosarum_JHI782.fna;Rlc;93.2466
+R._leguminosarum_SM102_gsC.fna;Rlc;93.2454
+R._leguminosarum_SM131_gsA.fna;Rlc;93.2439
+R._leguminosarum_SM106_gsC.fna;Rlc;93.2419
+R._leguminosarum_CZF1B5.fna;Rlc;93.2412
+R._leguminosarum_TA1.fna;Rlc;93.231
+R._leguminosarum_SM70_gsC.fna;Rlc;93.2309
+R._leguminosarum_JHI388.fna;Rlc;93.2211
+R._leguminosarum_SM96_gsC.fna;Rlc;93.2197
+R._leguminosarum_SM140A_gsA.fna;Rlc;93.2192
+R._leguminosarum_JHI783.fna;Rlc;93.2171
+R._leguminosarum_SM66_gsC.fna;Rlc;93.216
+R._leguminosarum_Ps8.fna;Rlc;93.2159
+R._leguminosarum_SM91_gsC.fna;Rlc;93.2106
+R._leguminosarum_JHI979.fna;Rlc;93.2105
+R._leguminosarum_SM82_gsC.fna;Rlc;93.2098
+R._leguminosarum_SM63_gsC.fna;Rlc;93.209
+R._leguminosarum_SM166B_gsC.fna;Rlc;93.2082
+R._leguminosarum_SM41_gsC.fna;Rlc;93.2044
+R._leguminosarum_SM151C_gsC.fna;Rlc;93.2043
+R._leguminosarum_SM43_gsC.fna;Rlc;93.2041
+R._leguminosarum_P1NP2K.fna;Rlc;93.2041
+R._leguminosarum_SM120_gsC.fna;Rlc;93.202
+R._leguminosarum_SM155A_gsA.fna;Rlc;93.2015
+R._leguminosarum_SM44_gsC.fna;Rlc;93.1954
+R._leguminosarum_SM144B_gsA.fna;Rlc;93.1945
+R._leguminosarum_SM133B_gsC.fna;Rlc;93.1928
+R._leguminosarum_SM71_gsC.fna;Rlc;93.1927
+R._leguminosarum_SM50_gsC.fna;Rlc;93.1926
+R._leguminosarum_SM113_gsC.fna;Rlc;93.1874
+R._leguminosarum_SM61_gsC.fna;Rlc;93.1864
+R._leguminosarum_SM54_gsC.fna;Rlc;93.1846
+R._leguminosarum_SM117_gsC.fna;Rlc;93.1842
+R._leguminosarum_SM57_gsC.fna;Rlc;93.1836
+R._leguminosarum_SM108_gsC.fna;Rlc;93.1834
+R._leguminosarum_SM109_gsC.fna;Rlc;93.182
+R._leguminosarum_SM80_gsC.fna;Rlc;93.1815
+R._leguminosarum_SM148A_gsC.fna;Rlc;93.1806
+R._leguminosarum_SM87_gsC.fna;Rlc;93.18
+R._leguminosarum_Vh3.fna;Rlc;93.1775
+R._leguminosarum_SM116_gsC.fna;Rlc;93.1759
+R._leguminosarum_SM67_gsC.fna;Rlc;93.1751
+R._leguminosarum_SM147A_gsC.fna;Rlc;93.1734
+R._leguminosarum_SM84_gsC.fna;Rlc;93.1723
+R._leguminosarum_SM59_gsC.fna;Rlc;93.1708
+R._leguminosarum_SM58_gsC.fna;Rlc;93.1698
+R._leguminosarum_SM161_gsC.fna;Rlc;93.1697
+R._leguminosarum_SM111_gsC.fna;Rlc;93.1693
+R._leguminosarum_SM73_gsC.fna;Rlc;93.1681
+R._leguminosarum_SM112_gsC.fna;Rlc;93.1665
+R._leguminosarum_SM100_gsC.fna;Rlc;93.1664
+R._leguminosarum_SM105_gsC.fna;Rlc;93.165
+R._leguminosarum_SM98_gsC.fna;Rlc;93.165
+R._leguminosarum_SM137A_gsC.fna;Rlc;93.1632
+R._leguminosarum_JHI953.fna;Rlc;93.1626
+R._leguminosarum_SM164C_gsC.fna;Rlc;93.1624
+R._leguminosarum_SM170B_gsC.fna;Rlc;93.162
+R._leguminosarum_SM53_gsC.fna;Rlc;93.1618
+R._leguminosarum_SM81_gsC.fna;Rlc;93.161
+R._leguminosarum_JHI10.fna;Rlc;93.1605
+R._leguminosarum_SM164A_gsC.fna;Rlc;93.1604
+R._leguminosarum_SM118_gsC.fna;Rlc;93.1603
+R._leguminosarum_SM168C_gsC.fna;Rlc;93.1602
+R._leguminosarum_SM77_gsC.fna;Rlc;93.1595
+R._leguminosarum_SM134B_gsC.fna;Rlc;93.1586
+R._leguminosarum_SM88_gsC.fna;Rlc;93.1586
+R._leguminosarum_SM97_gsC.fna;Rlc;93.1583
+R._leguminosarum_SM101_gsC.fna;Rlc;93.1561
+R._leguminosarum_SM127_gsC.fna;Rlc;93.1552
+R._leguminosarum_SM150_gsC.fna;Rlc;93.1544
+R._leguminosarum_31B.fna;Rlc;93.153
+R._leguminosarum_SM46_gsC.fna;Rlc;93.1525
+R._leguminosarum_SM76_gsC.fna;Rlc;93.1514
+R._leguminosarum_SM153C_gsC.fna;Rlc;93.1508
+R._leguminosarum_SM126B_gsC.fna;Rlc;93.1507
+R._leguminosarum_SM157B_gsC.fna;Rlc;93.1502
+R._leguminosarum_SM134A_gsC.fna;Rlc;93.1475
+R._leguminosarum_SM170C_gsC.fna;Rlc;93.1474
+R._leguminosarum_SM149C_gsC.fna;Rlc;93.1468
+R._leguminosarum_SM85_gsC.fna;Rlc;93.1453
+R._leguminosarum_SM115_gsC.fna;Rlc;93.1436
+R._leguminosarum_SM122A_gsC.fna;Rlc;93.143
+R._leguminosarum_SM99B_gsC.fna;Rlc;93.139
+R._leguminosarum_SM125_gsC.fna;Rlc;93.1389
+R._leguminosarum_SM119_gsC.fna;Rlc;93.1379
+R._leguminosarum_SM165A_gsC.fna;Rlc;93.1366
+R._leguminosarum_SM169_gsC.fna;Rlc;93.1345
+R._leguminosarum_SM158_gsC.fna;Rlc;93.131
+R._leguminosarum_SM60_gsC.fna;Rlc;93.131
+R._leguminosarum_SM74_gsC.fna;Rlc;93.1289
+R._leguminosarum_SM157C_gsC.fna;Rlc;93.1284
+R._leguminosarum_SM92_gsC.fna;Rlc;93.128
+R._leguminosarum_SM114_gsC.fna;Rlc;93.1255
+R._leguminosarum_SM55_gsC.fna;Rlc;93.1252
+R._leguminosarum_SM154C_gsA.fna;Rlc;93.1232
+R._leguminosarum_SM93_gsC.fna;Rlc;93.1222
+R._leguminosarum_SM47_gsC.fna;Rlc;93.1217
+R._leguminosarum_SM149B_gsC.fna;Rlc;93.1202
+R._leguminosarum_SM86_gsC.fna;Rlc;93.1171
+R._leguminosarum_SM121B_gsC.fna;Rlc;93.1168
+R._leguminosarum_SM94_gsC.fna;Rlc;93.1165
+R._leguminosarum_SM121A_gsC.fna;Rlc;93.1128
+R._leguminosarum_SM83_gsC.fna;Rlc;93.1127
+R._leguminosarum_SM133A_gsC.fna;Rlc;93.1087
+R._leguminosarum_SM157A_gsC.fna;Rlc;93.1061
+R._leguminosarum_SM147B_gsC.fna;Rlc;93.1057
+R._leguminosarum_SM89_gsC.fna;Rlc;93.1052
+R._leguminosarum_SM103_gsC.fna;Rlc;93.1042
+R._leguminosarum_SM148C_gsC.fna;Rlc;93.1039
+R._leguminosarum_SM49_gsC.fna;Rlc;93.1032
+R._leguminosarum_SM110_gsC.fna;Rlc;93.102
+R._leguminosarum_JHI925.fna;Rlc;93.1002
+R._leguminosarum_SM163B_gsA.fna;Rlc;93.0971
+R._leguminosarum_SM170A_gsC.fna;Rlc;93.0954
+R._leguminosarum_SM90_gsC.fna;Rlc;93.0931
+R._leguminosarum_SM147C_gsC.fna;Rlc;93.0925
+R._leguminosarum_SM48_gsC.fna;Rlc;93.091
+R._leguminosarum_SM166A_gsC.fna;Rlc;93.0872
+R._leguminosarum_SM141A_gsC.fna;Rlc;93.0836
+R._leguminosarum_RSP1E6.fna;Rlc;93.0806
+R._leguminosarum_SM148B_gsC.fna;Rlc;93.0783
+R._leguminosarum_SM132_gsC.fna;Rlc;93.0778
+R._leguminosarum_SM95_gsC.fna;Rlc;93.0719
+R._leguminosarum_SM42_gsC.fna;Rlc;93.0678
+R._leguminosarum_SM129_gsC.fna;Rlc;93.0676
+R._leguminosarum_SM153D_gsC.fna;Rlc;93.067
+R._leguminosarum_SM56_gsC.fna;Rlc;93.066
+R._leguminosarum_SM104_gsC.fna;Rlc;93.0508
+R._leguminosarum_SM107_gsC.fna;Rlc;93.0487
+R._leguminosarum_SM68_gsC.fna;Rlc;93.0471
+R._leguminosarum_SM167_gsC.fna;Rlc;93.0416
+R._leguminosarum_SM165B_gsC.fna;Rlc;93.0348
+R._leguminosarum_JHI2451.fna;Rlc;93.0312
+R._leguminosarum_JHI2450.fna;Rlc;93.029
+R._leguminosarum_SM143_gsC.fna;Rlc;93.0203
+R._leguminosarum_JHI1093.fna;Rlc;93.0178
+R._leguminosarum_SM122B_gsC.fna;Rlc;93.0129
+R._leguminosarum_JHI13.fna;Rlc;93.0127
+R._leguminosarum_JHI1096.fna;Rlc;93.0112
+R._leguminosarum_SM153A_gsC.fna;Rlc;93.0041
+R._leguminosarum_SPF4F3.fna;Rlc;92.9513
+R._leguminosarum_RSF2G1.fna;Rlc;92.9475
+R._leguminosarum_P1NP2H.fna;Rlc;92.9471
+R._leguminosarum_P1NP1J.fna;Rlc;92.9169
+R._leguminosarum_Vaf12.fna;Rlc;92.9094
+R._leguminosarum_FA23.fna;Rlc;92.907
+R._sp._JKLM13E_JKLM13E.fna;Rlc;92.8707
+R._leguminosarum_JHI54.fna;Rlc;92.8359
+R._leguminosarum_JHI585.fna;Rlc;92.8324
+R._leguminosarum_3841.fna;Rlc;92.8219
+R._leguminosarum_RSP1A1.fna;Rlc;92.8177
+R._sp._JKLM12A2_JKLM12A2.fna;Rlc;92.8154
+R._leguminosarum_VF39.fna;Rlc;92.814
+R._leguminosarum_JHI974.fna;Rlc;92.7996
+R._leguminosarum_JHI973.fna;Rlc;92.7976
+R._leguminosarum_Tri-43.fna;Rlc;92.7975
+R._leguminosarum_JHI535.fna;Rlc;92.7927
+R._leguminosarum_CCBAU65264.fna;Rlc;92.7922
+R._leguminosarum_JHI1600.fna;Rlc;92.7898
+R._leguminosarum_22B.fna;Rlc;92.7864
+R._leguminosarum_JHI1415.fna;Rlc;92.7817
+R._leguminosarum_JHI960.fna;Rlc;92.777
+R._leguminosarum_WSM1455.fna;Rlc;92.7756
+R._leguminosarum_JHI963.fna;Rlc;92.7752
+R._leguminosarum_SRDI943.fna;Rlc;92.7682
+R._leguminosarum_JHI1587.fna;Rlc;92.7668
+R._leguminosarum_WSM1328.fna;Rlc;92.763
+R._leguminosarum_RSP1F10.fna;Rlc;92.7606
+R._leguminosarum_WSM409.fna;Rlc;92.7447
+R._leguminosarum_SM6_gsB.fna;Rlc;92.7328
+R._leguminosarum_SM12_gsB.fna;Rlc;92.7321
+R._leguminosarum_SM36_gsB.fna;Rlc;92.719
+R._leguminosarum_SM20_gsB.fna;Rlc;92.7186
+R._leguminosarum_SM39_gsB.fna;Rlc;92.7137
+R._leguminosarum_Vaf-46.fna;Rlc;92.7118
+R._leguminosarum_WSM1481.fna;Rlc;92.71
+R._leguminosarum_CB2179.fna;Rlc;92.7096
+R._leguminosarum_SM30_gsB.fna;Rlc;92.7017
+R._leguminosarum_SM5_gsB.fna;Rlc;92.6963
+R._leguminosarum_RSP1F2.fna;Rlc;92.6963
+R._leguminosarum_SM27_gsB.fna;Rlc;92.696
+R._leguminosarum_WSM1325.fna;Rlc;92.6928
+R._leguminosarum_CCBAU03058.fna;Rlc;92.691
+R._leguminosarum_SM14_gsB.fna;Rlc;92.6816
+R._leguminosarum_SM24_gsB.fna;Rlc;92.6725
+R._leguminosarum_SM15_gsB.fna;Rlc;92.6649
+R._leguminosarum_SM16_gsB.fna;Rlc;92.6645
+R._leguminosarum_SM38_gsB.fna;Rlc;92.6573
+R._leguminosarum_SM19_gsB.fna;Rlc;92.6558
+R._leguminosarum_SM32_gsB.fna;Rlc;92.6542
+R._leguminosarum_SM21_gsB.fna;Rlc;92.6447
+R._leguminosarum_SM10_gsB.fna;Rlc;92.6418
+R._leguminosarum_SM37_gsB.fna;Rlc;92.6415
+R._leguminosarum_SM18_gsB.fna;Rlc;92.641
+R._leguminosarum_SM4_gsB.fna;Rlc;92.6381
+R._leguminosarum_SM9_gsB.fna;Rlc;92.6368
+R._leguminosarum_SM40_gsB.fna;Rlc;92.6295
+R._leguminosarum_SM22_gsB.fna;Rlc;92.6272
+R._leguminosarum_SM17_gsB.fna;Rlc;92.6178
+R._leguminosarum_SM35_gsB.fna;Rlc;92.6081
+R._leguminosarum_SM25_gsB.fna;Rlc;92.6031
+R._leguminosarum_SM34_gsB.fna;Rlc;92.5967
+R._leguminosarum_SM31_gsB.fna;Rlc;92.5963
+R._leguminosarum_SM13_gsB.fna;Rlc;92.5928
+R._leguminosarum_UPM1131.fna;Rlc;92.5708
+R._leguminosarum_SM11_gsB.fna;Rlc;92.57
+R._leguminosarum_SM7_gsB.fna;Rlc;92.5477
+R._leguminosarum_RSF1B9.fna;Rlc;92.5308
+R._leguminosarum_SM3_gsB.fna;Rlc;92.5283
+R._leguminosarum_GLR17.fna;Rlc;92.4994
+R._leguminosarum_L244.fna;Rlc;92.48
+R._leguminosarum_L411.fna;Rlc;92.4735
+R._laguerreae_JHI2449.fna;Rlc;92.464
+R._leguminosarum_L144.fna;Rlc;92.4633
+R._leguminosarum_CCBAU83268.fna;Rlc;92.4619
+R._leguminosarum_CCBAU11080.fna;Rlc;92.4602
+R._leguminosarum_L364.fna;Rlc;92.4484
+R._leguminosarum_L231.fna;Rlc;92.4458
+R._leguminosarum_BIHB_1148.fna;Rlc;92.4421
+R._leguminosarum_TOM.fna;Rlc;92.4416
+R._leguminosarum_L361.fna;Rlc;92.4261
+R._leguminosarum_L353.fna;Rlc;92.4258
+R._leguminosarum_L563.fna;Rlc;92.4209
+R._leguminosarum_CCBAU33195.fna;Rlc;92.4204
+R._leguminosarum_FRF1D12.fna;Rlc;92.4008
+R._leguminosarum_GLR2.fna;Rlc;92.3868
+R._leguminosarum_248_GCF_000385155.1.fna;Rlc;92.3773
+R._leguminosarum_L141.fna;Rlc;92.3742
+R._leguminosarum_L143.fna;Rlc;92.3738
+R._sp._PEPV16_PEPV16.fna;Rlc;92.3585
+R._leguminosarum_248.fna;Rlc;92.351
+R._laguerreae_HP3.fna;Rlc;92.3308
+R._leguminosarum_Vaf10.fna;Rlc;92.3114
+R._leguminosarum_SRDI565.fna;Rlc;92.2954
+R._leguminosarum_L241.fna;Rlc;92.2853
+R._laguerreae_CL8.fna;Rlc;92.2762
+R._leguminosarum_Vaf-108.fna;Rlc;92.2754
+R._laguerreae_SPF2A11.fna;Rlc;92.2652
+R._laguerreae_FB403.fna;Rlc;92.2649
+R._leguminosarum_WSM1689.fna;Rlc;92.2579
+R._laguerreae_SS21.fna;Rlc;92.2542
+R._laguerreae_OL29.fna;Rlc;92.2401
+R._laguerreae_OS25.fna;Rlc;92.2348
+R._laguerreae_SP15.fna;Rlc;92.2213
+R._laguerreae_SPF4F7.fna;Rlc;92.2199
+R._laguerreae_SP4.fna;Rlc;92.2095
+R._laguerreae_CCBAU10279.fna;Rlc;92.1972
+R._laguerreae_HUTR05.fna;Rlc;92.1854
+R._laguerreae_SL16.fna;Rlc;92.172
+R._laguerreae_FB206.fna;Rlc;92.1614
+R._laguerreae_SPF2F4.fna;Rlc;92.1483
+R._tropici_CF286.fna;R. anhuiense;91.5454
+R._leguminosarum_CF307.fna;R. anhuiense;91.5387
+R._anhuiense_CCBAU43229.fna;R. anhuiense;91.5364
+R._anhuiense_C15.fna;R. anhuiense;91.5197
+R._anhuiense_CCBAU_23252.fna;R. anhuiense;91.4857
+R._anhuiense_WYCCWR10015.fna;R. anhuiense;91.4595
+R._sp._BK398_BK398.fna;R. anhuiense;91.4407
+R._anhuiense_S10.fna;R. anhuiense;91.4256
+R._anhuiense_J3.fna;R. anhuiense;91.4217
+R._anhuiense_JX3.fna;R. anhuiense;91.3422
+R._anhuiense_Y27.fna;R. anhuiense;91.3251
+R._sp._L43_L43.fna;leg-etli clade;90.1774
+R._sp._CCGE_510_CCGE_510.fna;leg-etli clade;89.318
+R._leguminosarum_SEF4G12.fna;leg-etli clade;89.2725
+R._phaseoli_JHI366.fna;leg-etli clade;89.2348
+R._sp._L18_L18.fna;leg-etli clade;89.1367
+R._sp._RMa-01_RMa01.fna;leg-etli clade;89.0876
+R._sp._RSm-3_RSm-3.fna;leg-etli clade;89.0701
+R._ecuadorense_CNPSO_671.fna;leg-etli clade;89.054
+R._sp._C5_C5.fna;leg-etli clade;88.9668
+R._leguminosarum_WSM2297.fna;leg-etli clade;88.9606
+R._sp._C16_C16.fna;leg-etli clade;88.9577
+R._hidalgonense_CB763.fna;leg-etli clade;88.9373
+R._sp._JKLM19E_JKLM19E.fna;leg-etli clade;88.9346
+R._leguminosarum_WSM2012.fna;leg-etli clade;88.899
+R._sp._N541_N541.fna;leg-etli clade;88.8851
+R._sp._N324_N324.fna;leg-etli clade;88.8696
+R._sp._N941_N941.fna;leg-etli clade;88.8594
+R._sp._N4311_N4311.fna;leg-etli clade;88.8543
+R._sp._CIAT894_CIAT894.fna;leg-etli clade;88.8535
+R._leguminosarum_CCGM5.fna;leg-etli clade;88.8315
+R._leguminosarum_WSM2304.fna;leg-etli clade;88.823
+R._leguminosarum_CCGM4.fna;leg-etli clade;88.8213
+R._pisi_CZP3G4.fna;leg-etli clade;88.8213
+R._leguminosarum_WSM597.fna;leg-etli clade;88.8196
+R._leguminosarum_CB782.fna;leg-etli clade;88.8098
+R._acidisoli_FH23_GCF_001297245.1.fna;leg-etli clade;88.7844
+R._acidisoli_FH23_GCF_002531755.1.fna;leg-etli clade;88.7844
+R._sp._N122_N122.fna;leg-etli clade;88.7628
+R._acidisoli_FH23.fna;leg-etli clade;88.7457
+R._leguminosarum_CCGM6.fna;leg-etli clade;88.7348
+R._hidalgonense_FH14.fna;leg-etli clade;88.6831
+R._hidalgonense_FH14_GCF_002531855.1.fna;leg-etli clade;88.6831
+R._fabae_CCBAU_33202.fna;leg-etli clade;88.6411
+R._pisi_DSM_30132.fna;leg-etli clade;88.5181
+R._sp._R635_R635.fna;leg-etli clade;88.3756
+R._vallis_CCBAU_65647.fna;leg-etli clade;88.3207
+R._sp._H4_H4_GCF_002531775.1.fna;leg-etli clade;88.0432
+R._sp._M1_M1.fna;leg-etli clade;87.9954
+R._sp._M10_M10.fna;leg-etli clade;87.9461
+R._bangladeshense_1002.fna;leg-etli clade;87.905
+R._sophoriradicis_JJW1.fna;leg-etli clade;87.8591
+R._sp._J15_J15.fna;leg-etli clade;87.8235
+R._sp._H4_H4.fna;leg-etli clade;87.7235
+R._sp._R634_R634.fna;leg-etli clade;87.7136
+R._sophoriradicis_CCBAU_03470.fna;leg-etli clade;87.6767
+R._sophoriradicis_L101.fna;leg-etli clade;87.6687
+R._phaseoli_Brasil_5.fna;leg-etli clade;87.6224
+R._sp._Pop5_Pop5.fna;leg-etli clade;87.5883
+R._sophorae_CCBAU_03386.fna;leg-etli clade;87.5787
+R._etli_IE4803.fna;leg-etli clade;87.5771
+R._phaseoli_R630.fna;leg-etli clade;87.5674
+R._sp._Kim5_Kim5.fna;leg-etli clade;87.5662
+R._phaseoli_N831.fna;leg-etli clade;87.5656
+R._sp._R339_R339.fna;leg-etli clade;87.5653
+R._phaseoli_N931.fna;leg-etli clade;87.5624
+R._phaseoli_NC1.fna;leg-etli clade;87.5334
+R._phaseoli_Y18.fna;leg-etli clade;87.5315
+R._sp._IE4771_IE4771.fna;leg-etli clade;87.5315
+R._phaseoli_N261.fna;leg-etli clade;87.5296
+R._phaseoli_R650.fna;leg-etli clade;87.5291
+R._phaseoli_R611.fna;leg-etli clade;87.5275
+R._phaseoli_Y20.fna;leg-etli clade;87.5264
+R._phaseoli_Ch24-10_GCF_000268285.2.fna;leg-etli clade;87.5237
+R._phaseoli_R723.fna;leg-etli clade;87.5204
+R._phaseoli_N841.fna;leg-etli clade;87.5159
+R._phaseoli_R620.fna;leg-etli clade;87.5091
+R._leguminosarum_CCGM1.fna;leg-etli clade;87.5041
+R._phaseoli_ATCC_14482.fna;leg-etli clade;87.5017
+R._sp._S9_S9.fna;leg-etli clade;87.4989
+R._etli_CIAT_652.fna;leg-etli clade;87.4981
+R._phaseoli_N161.fna;leg-etli clade;87.4742
+R._phaseoli_R744.fna;leg-etli clade;87.4708
+R._sp._N1341_N1341.fna;leg-etli clade;87.4629
+R._sp._N113_N113.fna;leg-etli clade;87.4601
+R._leguminosarum_BLR195.fna;leg-etli clade;87.4577
+R._sp._N6212_N6212.fna;leg-etli clade;87.4489
+R._sp._N621_N621.fna;leg-etli clade;87.4478
+R._phaseoli_Ch24-10.fna;leg-etli clade;87.4412
+R._phaseoli_CCGM8.fna;leg-etli clade;87.4329
+R._phaseoli_N771.fna;leg-etli clade;87.4299
+R._phaseoli_N671.fna;leg-etli clade;87.4263
+R._sp._BUS002_BUS002.fna;leg-etli clade;87.4235
+R._phaseoli_CCGM2.fna;leg-etli clade;87.4213
+R._sp._TAL182_TAL182.fna;leg-etli clade;87.4197
+R._sp._N1314_N1314.fna;leg-etli clade;87.4116
+R._sp._BGM003_BGM003.fna;leg-etli clade;87.4081
+R._esperanzae_N561.fna;leg-etli clade;87.4071
+R._sp._N731_N731.fna;leg-etli clade;87.4044
+R._etli_CNPAF512.fna;leg-etli clade;87.4002
+R._sp._N741_N741.fna;leg-etli clade;87.395
+R._esperanzae_CNPSo_668.fna;leg-etli clade;87.385
+R._sp._N871_N871.fna;leg-etli clade;87.3621
+R._phaseoli_CCGM9.fna;leg-etli clade;87.3521
+R._sp._MHM7A_MHM7A.fna;leg-etli clade;87.3104
+R._sp._BUS003_BUS003.fna;leg-etli clade;87.2913
+R._aegyptiacum_950.fna;leg-etli clade;87.264
+R._aethiopicum_HBR26.fna;leg-etli clade;87.2254
+R._etli_CFN_42.fna;leg-etli clade;87.0866
+R._etli_NXC12.fna;leg-etli clade;87.0601
+R._sp._L9_L9.fna;leg-etli clade;87.0065
+R._etli_Mim1.fna;leg-etli clade;86.9398
+R._sp._NXC14_NXC14.fna;leg-etli clade;86.8592
+R._bangladeshense_1024.fna;leg-etli clade;86.8383
+R._bangladeshense_1017.fna;leg-etli clade;86.6836
+R._alamii_YR584.fna;Rhizobium;83.1633
+R._alamii_YR540.fna;Rhizobium;83.1628
+R._sp._CF142_CF142.fna;Rhizobium;83.1443
+R._sp._BK696_BK696.fna;Rhizobium;82.7057
+R._sp._BK418_BK418.fna;Rhizobium;82.3458
+R._sullae_.fna;Rhizobium;82.212
+R._sullae_Hc14.fna;Rhizobium;82.1567
+R._sullae_HCNT1.fna;Rhizobium;82.1099
+R._sullae_WSM1592.fna;Rhizobium;81.957
+R._mongolense_USDA_1844.fna;Rhizobium;81.887
+R._sp._YR519_YR519.fna;Rhizobium;81.8496
+R._mongolense_USDA_1844_GCF_000419765.1.fna;Rhizobium;81.8198
+R._sp._2MFCol3.1_2MFCol3.1.fna;Rhizobium;81.7927
+R._sp._YR528_YR528.fna;Rhizobium;81.7843
+R._sp._18055_.fna;Rhizobium;81.7649
+R._gallicum_IE4872.fna;Rhizobium;81.7337
+R._etli_R22G.fna;Rhizobium;81.6849
+R._sp._UBA1881_.fna;Rhizobium;81.6537
+R._loessense_CGMCC_1.3401.fna;Rhizobium;81.6255
+R._gallicum_R602.fna;Rhizobium;81.5591
+R._yanglingense_CCBAU_01603.fna;Rhizobium;81.5564
+R._azibense_23C2.fna;Rhizobium;81.5449
+R._sp._GV031_GV031.fna;Rhizobium;81.5386
+R._sp._OV201_OV201.fna;Rhizobium;81.4303
+R._etli_8C-3.fna;Rhizobium;81.4238
+R._sp._CF048_CF048.fna;Rhizobium;81.3881
+R._sp._CF122_CF122.fna;Rhizobium;81.3372
+R._sp._BK068_BK068.fna;Rhizobium;81.3123
+R._azibense_Gr42.fna;Rhizobium;81.2945
+R._favelukesii_OR191.fna;Rhizobium;81.2846
+R._azibense_IE4868.fna;Rhizobium;81.279
+R._sp._Root1203_Root1203.fna;Rhizobium;81.2723
+R._leguminosarum_OV483.fna;Rhizobium;81.2605
+R._favelukesii_LPU83.fna;Rhizobium;81.1771
+R._sp._R693_R693.fna;Rhizobium;81.0974
+R._sp._AP16_AP16.fna;Rhizobium;81.08
+R._favelukesii_LPU83_GCF_000577275.1.fna;Rhizobium;81.0431
+R._sp._ICMP_5592_ICMP_5592.fna;Rhizobium;81.0256
+R._sp._Root708_Root708.fna;Rhizobium;81.0111
+GCF_001692185.1_ASM169218v1_genomic.fna;Rhizobium;81.0035
+R._sp._R711_R711.fna;Rhizobium;80.9999
+R._sp._R72_R72.fna;Rhizobium;80.9999
+R._tibeticum_CGMCC_1.7071.fna;Rhizobium;80.9701
+R._sp._SEMIA4064_SEMIA4064.fna;Rhizobium;80.9699
+R._sp._YR060_YR060.fna;Rhizobium;80.8993
+R._tibeticum_.fna;Rhizobium;80.8852
+R._sp._IBUN_IBUN.fna;Rhizobium;80.8497
+R._sp._BK251_BK251.fna;Rhizobium;80.7984
+R._sp._CCGE531_CCGE531.fna;Rhizobium;80.7922
+R._grahamii_BG7.fna;Rhizobium;80.7702
+R._sp._42MFCr.1_42MFCr.1.fna;Rhizobium;80.7671
+R._sp._CCGE532_CCGE532.fna;Rhizobium;80.7382
+R._sp._Root1220_Root1220.fna;Rhizobium;80.7347
+R._sp._SG741_SG741.fna;Rhizobium;80.7335
+R._sp._JAB6_JAB6.fna;Rhizobium;80.7306
+R._altiplani_BR_10423.fna;Rhizobium;80.7192
+R._grahamii_CCGM3.fna;Rhizobium;80.7024
+R._lusitanum_P1-7.fna;Rhizobium;80.6721
+R._grahamii_CCGE_502.fna;Rhizobium;80.6713
+R._sp._NXC24_NXC24.fna;Rhizobium;80.6481
+GCF_001692325.1_ASM169232v1_genomic.fna;Rhizobium;80.6458
+R._sp._CF394_CF394.fna;Rhizobium;80.5957
+R._freirei_PRF_81.fna;Rhizobium;80.5893
+R._sp._SG570_SG570.fna;Rhizobium;80.5855
+R._sp._OK494_OK494.fna;Rhizobium;80.5839
+R._hainanense_CCBAU_57015.fna;Rhizobium;80.5624
+R._sp._BK376_BK376.fna;Rhizobium;80.5603
+R._album_NS-104.fna;Rhizobium;80.5529
+R._leucaenae_CPAO_29.8.fna;Rhizobium;80.5388
+R._lusitanum_JHI1118.fna;Rhizobium;80.5359
+R._tropici_YR635.fna;Rhizobium;80.5306
+R._multihospitium_HAMBI_2975.fna;Rhizobium;80.512
+R._lusitanum_YR374.fna;Rhizobium;80.5113
+R._mesoamericanum_STM3625.fna;Rhizobium;80.5098
+R._sp._P44RR-XXIV_P44RR-XXIV.fna;Rhizobium;80.5082
+R._lusitanum_1158.fna;Rhizobium;80.5023
+R._tropici_SARCC-755.fna;Rhizobium;80.4963
+R._tropici_A12.fna;Rhizobium;80.4953
+R._sp._BK463_BK463.fna;Rhizobium;80.4909
+R._sp._WW_1_WW_1.fna;Rhizobium;80.483
+R._sp._P44RR-XXIV_P44RR-XXIV_GCF_001999485.1.fna;Rhizobium;80.4626
+R._sp._BK315_BK315.fna;Rhizobium;80.459
+R._sp._BK333_BK333.fna;Rhizobium;80.458
+R._mesoamericanum_STM_6155.fna;Rhizobium;80.4392
+R._tropici_CIAT_899.fna;Rhizobium;80.4371
+R._tropici_PTD1.fna;Rhizobium;80.4304
+R._sp._SEMIA_4088_SEMIA_4088.fna;Rhizobium;80.4196
+R._leucaenae_USDA_9039.fna;Rhizobium;80.4157
+R._miluonense_HAMBI_2971.fna;Rhizobium;80.4105
+R._oryzae_B4P.fna;other genera;80.3894
+R._sp._63-7_.fna;other genera;80.384
+R._tropici_IGFRI_Rhizo-19.fna;Rhizobium;80.3775
+R._sp._S-93_S-93.fna;Rhizobium;80.3544
+R._miluonense_1234.fna;Rhizobium;80.3472
+R._sp._60-20_.fna;Rhizobium;80.3367
+R._sp._NFR17_NFR17.fna;Rhizobium;80.3191
+R._sp._S-62_S-62.fna;Rhizobium;80.2902
+R._sp._ERR1071_ERR1071.fna;Rhizobium;80.2879
+R._sp._YK2_YK2.fna;Rhizobium;80.2553
+R._jaguaris_CCGE525.fna;Rhizobium;80.238
+R._sp._11515TR_11515TR.fna;Rhizobium;80.2351
+R._sp._ERR_942_ERR_942.fna;Rhizobium;80.2279
+R._sp._ERR_922_ERR_922.fna;Rhizobium;80.2001
+R._sp._CF080_CF080_GCF_000282095.2.fna;other genera;80.1113
+R._sp.__GCA_002796995.1.fna;other genera;80.0338
+R._vignae_CCBAU_05176.fna;other genera;80.0173
+R._tubonense_CCBAU_85046.fna;Rhizobium;80.0012
+R._giardinii_H152.fna;other genera;79.9739
+R._selenitireducens_.fna;other genera;79.9714
+R._sp._Root268_Root268.fna;other genera;79.9555
+R._sp._Root1212_Root1212.fna;other genera;79.9095
+R._naphthalenivorans__GCF_900492205.1.fna;other genera;79.8988
+R._sp._CF097_CF097.fna;other genera;79.8101
+R._sp._KAs_5_22_KAs_5_22.fna;other genera;79.7984
+R._selenitireducens_ATCC_BAA-1503.fna;other genera;79.7666
+R._sp._NAU-18_NAU-18.fna;other genera;79.7369
+R._sp._RU20A_RU20A.fna;other genera;79.6436
+R._sp._rho-13.1_rho-13.1.fna;Rhizobium;79.6213
+R._wuzhouense_W44.fna;other genera;79.6112
+R._sp._YR295_YR295.fna;other genera;79.608
+R._sp._LC145_LC145.fna;other genera;79.5944
+R._sp._CF258_CF258.fna;other genera;79.5905
+R._sp._rho-1.1_rho-1.1.fna;Rhizobium;79.5645
+R._tumorigenes_1078.fna;Rhizobium;79.5605
+R._sp._NFR07_NFR07.fna;other genera;79.5506
+R._sp._PP-F2F-G48_PP-F2F-G48.fna;other genera;79.5287
+R._pseudoryzae_DSM_19479.fna;other genera;79.5205
+R._sp._AG855_AG855.fna;other genera;79.5204
+R._sp._rho-6.2_rho-6.2.fna;Rhizobium;79.5114
+R._sp._Leaf386_Leaf386.fna;other genera;79.4991
+R._sp._YS-1r_YS-1r.fna;other genera;79.4804
+R._sp._Leaf371_Leaf371.fna;other genera;79.4674
+R._sp._Root482_Root482.fna;other genera;79.4661
+R._sp._AAP116_AAP116.fna;other genera;79.4658
+R._sp._Leaf391_Leaf391.fna;other genera;79.4598
+R._straminoryzae_SM12.fna;other genera;79.4548
+R._rhizosphaerae_RD15.fna;other genera;79.4445
+R._sp._Root483D2_Root483D2.fna;other genera;79.4337
+R._rosettiformans_W3.fna;other genera;79.4155
+R._sp._PP-WC-2G-219_PP-WC-2G-219.fna;other genera;79.3998
+R._sp._Leaf453_Leaf453.fna;other genera;79.3867
+P._sp._SLBN-2_MSSRF_QS100.fna;other genera;79.3624
+R._sp._RU35A_RU35A.fna;other genera;79.3621
+R._daejeonense_KACC_13094.fna;other genera;79.3532
+R._sp._ACO-34A_ACO-34A.fna;other genera;79.3493
+R._sp._PP-F2F-G20b_PP-F2F-G20b.fna;other genera;79.3451
+R._sp._Root1240_Root1240.fna;other genera;79.3231
+R._sp._PP-CC-3A-592_PP-CC-3A-592.fna;other genera;79.2953
+R._sp._LCM_4573_LCM_4573.fna;other genera;79.2939
+R._sp._OK665_OK665.fna;other genera;79.2924
+R._sp._RU33A_RU33A.fna;other genera;79.2859
+R._rhizosphaerae_MH17.fna;other genera;79.2842
+R._sp._Root274_Root274.fna;other genera;79.2796
+R._sp._PP-CC-3G-465_PP-CC-3G-465.fna;other genera;79.2593
+R._sp._58_58.fna;other genera;79.2566
+R._sp._18065_.fna;other genera;79.2553
+R._sp._TH135_TH135.fna;other genera;79.2504
+R._subbaraonis_JC85.fna;other genera;79.247
+R._arenae_MIM27.fna;other genera;79.247
+R._glycinendophyticum_CL12.fna;other genera;79.241
+R._daejeonense_CCBAU10050.fna;other genera;79.2307
+R._marinum_MGL06.fna;other genera;79.214
+R._sp._Root1204_Root1204.fna;other genera;79.2106
+R._sp._Q54_Q54.fna;other genera;79.2042
+R._sp._PP-CC-2G-626_PP-CC-2G-626.fna;other genera;79.1996
+R._sp._Root73_Root73.fna;other genera;79.1906
+R._sp._Root1334_Root1334.fna;other genera;79.1833
+R._sp._PDO1-076_PDO-076.fna;other genera;79.1826
+R._sp._PP-F2F-G36_PP-F2F-G36.fna;other genera;79.16
+R._sp._WL3_WL3.fna;other genera;79.1582
+R._sp._7209-2_7209-2.fna;other genera;79.1553
+R._endolithicum_JC140.fna;other genera;79.1532
+R._sp._NFACC06-2_NFACC06-2.fna;other genera;79.1495
+R._sp._CRIBSB_CRIBSB.fna;other genera;79.1468
+R._sp._PP-F2F-G38_PP-F2F-G38.fna;other genera;79.1284
+R._sp._FKL33_FKL33.fna;other genera;79.0984
+R._sp._24NR_24NR.fna;other genera;79.0939
+R._sp._SEMIA_4032_SEMIA_4032.fna;other genera;79.0497
+R._sp._TCK_TCK.fna;other genera;79.0245
+R._sp._Leaf306_Leaf306.fna;other genera;79.0105
+R._sp._PP-WC-1G-195_PP-WC-1G-195.fna;other genera;79.0099
+R._sp._AU243_AU243.fna;other genera;79.0098
+R._sp._9140_9140.fna;other genera;79.0071
+R._sp._RU36D_RU36D.fna;other genera;78.9992
+R._sp._SEMIA_439_SEMIA_439.fna;other genera;78.9768
+R._sp._AAP43_AAP43.fna;other genera;78.9763
+GCF_000949865.1_ASM94986v1_genomic.fna;other genera;78.9643
+R._naphthalenivorans_NBRC_107585.fna;other genera;78.9623
+R._oryzae_1.7048.fna;other genera;78.9612
+R._sp._YIC5082_YIC5082.fna;other genera;78.9517
+R._sp._Leaf321_Leaf321.fna;other genera;78.9451
+R._flavum_YW14.fna;other genera;78.9432
+R._smilacinae_PTYR-5.fna;other genera;78.9402
+R._ipomoeae_shin9-1.fna;other genera;78.9383
+R._oryzae_CGMCC_1.7048.fna;other genera;78.9292
+R._sp._Root651_Root651.fna;other genera;78.9263
+R._sp._Khangiran2_Khangiran2.fna;other genera;78.9228
+R._sp._LZ-R_LZ-R.fna;other genera;78.912
+R._sp._UGM030330-04_UGM030330-04.fna;other genera;78.9067
+R._deserti_SPY-1.fna;other genera;78.9048
+R._halotolerans_AB21.fna;other genera;78.8827
+R._sp._Leaf384_Leaf384.fna;other genera;78.8625
+R._sp._NFR12_NFR12.fna;other genera;78.8607
+R._sp._M15_M15.fna;other genera;78.8521
+R._flavum_YW14_GCF_002000045.1.fna;other genera;78.8484
+R._sp._NT-26_NT-26.fna;other genera;78.8248
+R._sp._NIBRBAC000502774_NIBRBAC000502774.fna;other genera;78.7812
+R._sp.__GCA_003527225.1.fna;other genera;78.7749
+R._sp._P007_P007.fna;other genera;78.7607
+R._sp._AN5_AN5.fna;other genera;78.76
+R._sp._UR51a_UR51a.fna;other genera;78.7561
+R._sp._IRBG74_IRBG74.fna;other genera;78.7533
+R._sp._FY34_FY34.fna;other genera;78.7434
+R._sp._NFR03_NFR03.fna;other genera;78.6957
+R._pusense_CFBP5496.fna;other genera;78.694
+R._sp._Y9_Y9.fna;other genera;78.6918
+R._sp._Leaf383_Leaf383.fna;other genera;78.6903
+R._sp._Leaf341_Leaf341.fna;other genera;78.6807
+R._pusense_LMG_25623.fna;other genera;78.6638
+R._pusense_S2.fna;other genera;78.6496
+R._pusense_NRCPB10.fna;other genera;78.6359
+R._sp._S41_S41.fna;other genera;78.6343
+R._pusense_FDAARGOS_633.fna;other genera;78.6247
+R._sp._GHKF11_GHKF11.fna;other genera;78.6113
+R._pusense_CFBP5875.fna;other genera;78.6085
+R._sp._H41_H41.fna;other genera;78.5989
+R._sp._AN6A_AN6A.fna;other genera;78.5923
+R._pusense_CNPSo_3352.fna;other genera;78.5804
+R._sp._LMB-1_LMB-1.fna;other genera;78.5773
+R._pusense_KCJK7997.fna;other genera;78.5585
+R._sp._Root491_Root491.fna;other genera;78.5484
+R._pusense_CCGM10.fna;other genera;78.5249
+R._sp._SJZ105_SJZ105.fna;other genera;78.5171
+R._pusense_S1.fna;other genera;78.5025
+R._sp._ADMK78_ADMK78.fna;other genera;78.4821
+R._sp._TBD182_.fna;other genera;78.4588
+R._sp.__GCA_003248675.1.fna;other genera;78.4342
+R._sp._Root564_Root564.fna;other genera;78.4063
+R._taibaishanense_14971.fna;other genera;78.3748
+R._pusense_CCGM11.fna;other genera;78.3518
+R._sp._Leaf202_Leaf202.fna;other genera;78.3028
+R._sp._Leaf68_Leaf68.fna;other genera;78.2783
+R._sp._Leaf155_Leaf155.fna;other genera;78.1647
+R._sp._Leaf262_Leaf262.fna;other genera;78.1351
+R._sp._Td3_Td3.fna;other genera;78.1295
+R._undicola_ATCC_700741.fna;other genera;77.9541
+R._rhizoryzae_DSM_29514.fna;other genera;77.896
+R._sp._Leaf311_Leaf311.fna;other genera;77.8482
+R._sp._Root149_Root149.fna;other genera;77.7593
+R._sp._FKY42_FKY42.fna;other genera;77.665

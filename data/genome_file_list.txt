@@ -1,0 +1,5 @@
+../data/R._anhuiense_CCBAU_23252_GCF_003985145.1.fna
+../data/R._leguminosarum_3841_GCF_000009265.1.fna
+../data/R._leguminosarum_CC275e_GCF_000769405.2.fna
+../data/R._leguminosarum_USDA_2370_GCF_002008365.1.fna
+../data/R._ruizarguesonis_UPM1133_GCF_012349115.1.fna

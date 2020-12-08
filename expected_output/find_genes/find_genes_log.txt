@@ -1,0 +1,12 @@
+Starting at 2020-12-06 21:59:37.686740
+2020-12-06 21:59:38.902084 Found 3 genes in R._anhuiense_CCBAU_23252_GCF_003985145.1
+2020-12-06 21:59:39.187839 Found 3 genes in R._leguminosarum_3841_GCF_000009265.1
+2020-12-06 21:59:39.441815 Found 3 genes in R._leguminosarum_CC275e_GCF_000769405.2
+2020-12-06 21:59:39.630359 Found 3 genes in R._leguminosarum_USDA_2370_GCF_002008365.1
+2020-12-06 21:59:39.802612 Found 3 genes in R._ruizarguesonis_UPM1133_GCF_012349115.1
+2020-12-06 21:59:40.545219 Finished alignment of viciae
+2020-12-06 21:59:40.620923 Finished tree of viciae
+2020-12-06 21:59:41.262292 Finished alignment of trifolii
+2020-12-06 21:59:41.305827 Finished tree of trifolii
+2020-12-06 21:59:41.991898 Finished alignment of phaseoli
+2020-12-06 21:59:42.033518 Finished tree of phaseoli
