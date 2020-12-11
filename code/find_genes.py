@@ -74,7 +74,7 @@ with open(data_folder + "/genome_file_list.txt") as genome_list:
         subprocess.call(blast_type + " -db " + genome_file + " -query " + target_standards_file +" -out " + 
         blast_file +" -outfmt 6 -max_hsps 1 -evalue 1E-10 -num_threads 6", shell=True)
 
-        #Read the tra blast hits into a dict with queries as keys.
+        #Read the blast hits into a dict with queries as keys.
         #Keep only the best hit for each query in each strain.
 
         hit_dict = {}
